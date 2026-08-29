@@ -195,9 +195,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-	  printf("Godwin Lawrance L\n");
-	  printf("212225220034\n");
-	  printf("B.Tech IT\n");
+	  printf("Name: Godwin Lawrance L\n");
+	  printf("Reg No: 212225220034\n");
+	  printf("Department: B.Tech IT\n");
 	  HAL_Delay(500);
     /* USER CODE BEGIN 3 */
   }
